@@ -4,3 +4,7 @@
 
 # package.json
 
+pages/
+services/
+package.json
+
