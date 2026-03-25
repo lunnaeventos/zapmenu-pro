@@ -1,1 +1,6 @@
-# zapmenu-pro
+# pages/
+
+# services/
+
+# package.json
+
